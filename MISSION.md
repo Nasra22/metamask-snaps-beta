@@ -1,3 +1,6 @@
+Nasra
+Nairobi
+FrontEnd Development
 # MetaMask Philosophy
 
 ## Mission
